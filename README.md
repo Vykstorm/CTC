@@ -1,7 +1,7 @@
 
 
 This is just a review of the CTC (Connectionist Temporal Classifier) loss function developed by Alex Graves <br/>
-In this <a href='https://htmlpreview.github.io/?https://raw.githubusercontent.com/Vykstorm/CTC/master/ctc.html'>notebook</a> im trying to calculate the alpha values (CTC forward variables) in order to calculate the CTC loss
+In this <a href='https://htmlpreview.github.io/?https://raw.githubusercontent.com/Vykstorm/CTC/master/ctc.html'>notebook</a> im trying to calculate the alpha values (CTC forward variables) in order to compute the CTC loss
 
 <br/>
 For more in deep understanding of how CTC works, you can read this articles:

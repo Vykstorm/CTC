@@ -13,6 +13,9 @@ For more in deep understanding of how CTC works, you can read this articles:
    <li>
    <a href='https://docs.google.com/presentation/d/12gYcPft9_4cxk2AD6Z6ZlJNa3wvZCW1ms31nhq51vMk/pub?start=false&loop=false&delayms=3000#slide=id.g24e9f0de4f_0_164'>OCR model arquitecture using CTC</a>
    </li>
+   <li>
+      <a href='https://www.dlology.com/blog/how-to-train-a-keras-model-to-recognize-variable-length-text/'>OCR model implemented on Keras using CTC</a>
+   </li>
 </ul>
 
 <p>
